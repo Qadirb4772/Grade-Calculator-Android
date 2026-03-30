@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" >Grading Calculator</string>
+    <string name="Welcome_Txt" >Welcome To Grade Calculator!!</string>
+    <string name="marks_Hint">Enter Your Marks</string>
+    <string name="btnCalculateGrade">Calculate Grade</string>
+    <string name="Grade_A">Your Grade is: A</string>
+    <string name="Grade_B">Your Grade is: B</string>
+    <string name="Grade_C">Your Grade is: C</string>
+    <string name="Grade_D">Your Grade is: D</string>
+    <string name="Grade_F">Sorry!! You\'re Fail!!</string>
+    <string name="Invalid_Marks">Invalid Marks!! Marks should be between 0 and 100</string>
+    <string name="Empty_Marks">Please Enter Marks First!</string>
+</resources>
